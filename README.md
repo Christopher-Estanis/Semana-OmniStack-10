@@ -1,10 +1,10 @@
 <h1 align="center"> Semana-OmniStack-10</h1>
 <h3 align="center">DevRadar</h3>
 <p align="center">
-  <a href="#books-linguagens-utilizadas">Arrumar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-menu">Arrumar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#fist-arrastando-elementos">Arrumar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#baby_chick-projeto-flappy-bird">Arrumar Bird</a>
+  <a href="#books-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pencil2-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-web">Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-mobile">Mobile</a>
 </p>
 
 ---
@@ -17,14 +17,30 @@
 - [MongoDB](https://www.mongodb.com/)
 - [Expo](https://expo.io/)
 
-## Projeto
+## :pencil2: Projeto
 O DevRadar é um projeto criado na semana OmniStack pela [RocketSeat](https://rocketseat.com.br/), tem como o objetivo conectar desenvolvedores que estão próximos a você e que trabalham com as mesmas tecnologias.
 
+<h1 align="center">:computer: Web</h1>
 
-# :computer: Web
+---
 
-![b5471811-7603-4cfd-b379-634f4a4c917b](https://user-images.githubusercontent.com/49492784/74476012-4f86b080-4e87-11ea-9f84-c17397fdec43.jpg)
-
-
+![100](https://user-images.githubusercontent.com/49492784/74499102-7530ab80-4ec1-11ea-9d85-d4fc915bc995.png)
 
 
+<h1 align="center">:iphone: Mobile</h1>
+
+---
+
+![1](https://user-images.githubusercontent.com/49492784/74499374-3d763380-4ec2-11ea-9779-3b52153e8fbe.png)
+
+---
+
+![2](https://user-images.githubusercontent.com/49492784/74499149-94c7d400-4ec1-11ea-9bd9-2edfd6bbf195.png)
+
+---
+
+![3](https://user-images.githubusercontent.com/49492784/74499200-be80fb00-4ec1-11ea-84bf-0f1dc3fb014c.png)
+
+---
+
+![4](https://user-images.githubusercontent.com/49492784/74499204-c2ad1880-4ec1-11ea-849d-fe22e65b9684.png)
